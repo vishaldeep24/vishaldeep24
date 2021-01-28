@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Python, Django, REST API, Docker, Kafka, MySQL.
 - 🌱 I’m currently learning Javascript, ReactJS.
-- 🥅 2020 Goals: Specialize in Full-Stack Web development.
+- 🥅 2021 Goals: Specialize in Full-Stack Web development.
 - ⚡ Fun fact: I love Biking and Road trips.
 
 <br>
